@@ -1,4 +1,4 @@
-# Innomatics-task4
+# Innomatics-EDA 
 Performing Exploratory Data Analysis (EDA) on the data considering Salary as a target variable.
 import pandas as pd
 import numpy as np
